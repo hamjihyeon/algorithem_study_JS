@@ -106,6 +106,26 @@ console.log(solution(input));
 | | | [별찍기9](https://www.acmicpc.net/problem/2446) | <img src="https://static.solved.ac/tier_small/3.svg" height="25" align="center"/> |
 | | | [애너그램 만들기](https://www.acmicpc.net/problem/1919) | <img src="https://static.solved.ac/tier_small/4.svg" height="25" align="center"/> |
 | | | [방 번호](https://www.acmicpc.net/problem/1475) | <img src="https://static.solved.ac/tier_small/6.svg" height="25" align="center"/> |
+| **week02**| 다이나믹 프로그래밍 |
+| | | [1로 만들기](https://www.acmicpc.net/problem/1463) | <img src="https://static.solved.ac/tier_small/9.svg" height="25" align="center"/> |
+| | | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | <img src="https://static.solved.ac/tier_small/9.svg" height="25" align="center"/> |
+| | | [쉬운 계단 수](https://www.acmicpc.net/problem/10844) | <img src="https://static.solved.ac/tier_small/10.svg" height="25" align="center"/> |
+| | | [포도주 시식](https://www.acmicpc.net/problem/2156) | <img src="https://static.solved.ac/tier_small/10.svg" height="25" align="center"/> |
+| | | [징검다리 건너기](https://www.acmicpc.net/problem/21317) | <img src="https://static.solved.ac/tier_small/10.svg" height="25" align="center"/> |
+| **week03**| 이분 탐색 |
+| | | [수 찾기](https://www.acmicpc.net/problem/1920) | <img src="https://static.solved.ac/tier_small/7.svg" height="25" align="center"/> |
+| | | [과자 나눠주기](https://www.acmicpc.net/problem/16401) | <img src="https://static.solved.ac/tier_small/9.svg" height="25" align="center"/> |
+| | | [나무 자르기](https://www.acmicpc.net/problem/2805) | <img src="https://static.solved.ac/tier_small/9.svg" height="25" align="center"/> |
+| | | [용액](https://www.acmicpc.net/problem/2467) | <img src="https://static.solved.ac/tier_small/12.svg" height="25" align="center"/> |
+
+
+
+
+<!-- problem table template
+
+|| 24.00.00 (❓) | [❓](https://www.acmicpc.net/problem/❓) | <img src="https://static.solved.ac/tier_small/❓.svg" height="25" align="center"/> | - |
+
+ -->
 
 ## 참여자
 
@@ -145,11 +165,3 @@ console.log(solution(input));
         </td>
     </tr>
 </table>
-
-
-
-<!-- problem table template
-
-|| 24.00.00 (❓) | [❓](https://www.acmicpc.net/problem/❓) | <img src="https://static.solved.ac/tier_small/❓.svg" height="25" align="center"/> | - |
-
- -->
