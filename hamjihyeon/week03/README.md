@@ -64,7 +64,8 @@ console.log(index); // 2
 4. 탐색 범위를 반으로 좁힌다.
 5. 탐색 범위가 더 이상 없을 때까지 위 과정을 반복한다.
    
-![alt text](<이진탐색 트리.png>)
+<img width="622" alt="스크린샷 2024-07-08 19 04 50" src="https://github.com/hamjihyeon/algorithem_study_JS/assets/48716412/d214bc97-b6af-4d22-b7eb-986ba416af24">
+
 
 ### 이진탐색의 장점
 * 검색 속도가 빠르다
